@@ -1,4 +1,5 @@
 # Mac vscode快捷键
+> 说明： Windows 只需要把 Mac 的 cmd 换成 ctrl 即可，具体操作可以查看官方说明
 ## 全局
 ```
 Command + Shift + P / F1 显示命令面板
